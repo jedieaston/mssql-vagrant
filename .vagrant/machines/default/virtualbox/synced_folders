@@ -1,1 +1,0 @@
-{"virtualbox":{"/var/opt/mssql/data/backups/":{"create":true,"guestpath":"/var/opt/mssql/data/backups","hostpath":"C:/Users/Easton Pillay/vagrant/mssql/backups","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Easton Pillay/vagrant/mssql","disabled":false,"__vagrantfile":true}}}
